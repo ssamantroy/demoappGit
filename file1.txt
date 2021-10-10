@@ -1,1 +1,3 @@
-Hello! This is my First session on Version Control Git And GitHub.
+Hello! This is my First session on Version Control Git and GitHub.
+
+Adding a new line.
